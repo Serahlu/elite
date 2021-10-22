@@ -16,3 +16,13 @@ $ pip install futures
 
 $ rm -rf elite
 
+$ git clone https://github.com/HACKERIHSAN/elite.git
+
+$ cd elite
+
+$ git pull
+
+$ python elite.py
+
+### THANKS FOR USING MY TOOL 
+
