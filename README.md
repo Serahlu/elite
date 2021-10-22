@@ -1,23 +1,18 @@
-# BDXSAN
-# UPDATE____XSAN
+# EliTE
 
+$ termux-setup-storage
 
+$ pkg install python
 
-pkg update
-pkg upgrade
-pkg install git
-pkg install python
-pkg install python2
-pip2 install requests
-pip2 install mechanize
-pip2 install bs4
-rm -rf BDXSAN
-git clone https://github.com/HACKERIHSAN/BDXSAN.git
-cd BDXSAN
-ls
-python2 XS4N.py
+$ pkg install git
 
-USERNAME 📛XS4N
-PASSWORD 📛 XS4N
+$ pip install requests
 
-Thanks for using my tool 😘
+$ pip install mechanize
+
+$ pip install bs4
+
+$ pip install futures
+
+$ rm -rf elite
+
