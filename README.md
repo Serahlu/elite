@@ -1,7 +1,7 @@
 ![CarefreeWhiteEnglishsetter-size_restricted](https://user-images.githubusercontent.com/79760783/138675671-b295377e-bb0d-4d94-b46a-1fe7a3ff68fb.gif)
 ![IMG-20211025-WA0088](https://user-images.githubusercontent.com/79760783/138675741-20e52a28-a405-4143-8ea9-b2800eff8789.jpg)
 
-# 𝐄𝐋𝐈𝐓𝐄
+# 𝐄𝐋𝐈𝐓𝐄 𓅓 𝐔𝐏𝐃𝐀𝐓𝐄
 
 ### 𝐇𝐎𝐖 𝐓𝐎 𝐈𝐍𝐒𝐓𝐀𝐋𝐋 𝐏𝐊𝐆𝐒
 
